@@ -1,0 +1,38 @@
+{
+  "name": "josi-auth",
+  "description": "This is where you manage any scripts that require per-user authentication in any way.",
+  "version": "1.0.0",
+  "author": "Tom Bell <tomb@tomb.io>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jollyscience/josi-auth.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/jollyscience/josi-auth/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
