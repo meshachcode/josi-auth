@@ -1,11 +1,8 @@
 {
   "name": "josi-auth",
   "description": "This is where you manage any scripts that require per-user authentication in any way.",
-  "version": "1.0.0",
-  "author": {
-    "name": "Tom Bell",
-    "email": "tomb@tomb.io"
-  },
+  "version": "0.0.1",
+  "author": "Jolly Science",
   "license": "MIT",
   "keywords": [
     "hubot",
