@@ -1,15 +1,10 @@
 {
   "name": "josi-auth",
   "description": "This is where you manage any scripts that require per-user authentication in any way.",
-<<<<<<< HEAD
   "version": "0.0.3",
   "author": {
     "name": "Jolly Science"
   },
-=======
-  "version": "0.0.1",
-  "author": "Jolly Science",
->>>>>>> 5175844719408b125a4c4c0dfeb0b2af8c1a5f0c
   "license": "MIT",
   "keywords": [
     "hubot",
@@ -38,18 +33,10 @@
   },
   "readme": "### josi-auth\n\n[coming soon]\n\n\tnpm install josi-auth\n\nThis is where you manage any scripts that require per-user authentication in any way. \n\n\t- josi-auth/\n\t\t- scripts/\n\t\t\t- alias.coffee\n\t\t\t- auth.coffee\n\t\t\t- oauth.coffee",
   "readmeFilename": "README.md",
-<<<<<<< HEAD
   "_id": "josi-auth@0.0.1",
   "dist": {
     "shasum": "17b60ff879b744cc0b02de084e2a7c3854e2bec8"
   },
   "_from": "josi-auth@*",
-=======
-  "_id": "josi-auth@1.0.0",
-  "dist": {
-    "shasum": "17b60ff879b744cc0b02de084e2a7c3854e2bec8"
-  },
-  "_from": "josi-auth@1.0.0",
->>>>>>> 5175844719408b125a4c4c0dfeb0b2af8c1a5f0c
   "_resolved": "https://registry.npmjs.org/josi-auth/-/josi-auth-1.0.0.tgz"
 }
