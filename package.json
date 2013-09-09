@@ -1,0 +1,42 @@
+{
+  "name": "josi-auth",
+  "description": "This is where you manage any scripts that require per-user authentication in any way.",
+  "version": "0.0.3a",
+  "author": {
+    "name": "Jolly Science"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jollyscience/josi-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jollyscience/josi-auth/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "scribe-node": ">=0.0.24"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "script/test"
+  },
+  "readme": "### josi-auth\n\n[coming soon]\n\n\tnpm install josi-auth\n\nThis is where you manage any scripts that require per-user authentication in any way. \n\n\t- josi-auth/\n\t\t- scripts/\n\t\t\t- alias.coffee\n\t\t\t- auth.coffee\n\t\t\t- oauth.coffee",
+  "readmeFilename": "README.md",
+  "_id": "josi-auth@0.0.3",
+  "dist": {
+    "shasum": "499e0171c34bb105d161df26b8842b66dae52a84"
+  },
+  "_from": "josi-auth@0.0.3",
+  "_resolved": "https://registry.npmjs.org/josi-auth/-/josi-auth-0.0.3.tgz"
+}
